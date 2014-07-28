@@ -2,5 +2,4 @@
 
 * This is a unordered list
 
-
-*  This will diverge from the branch
+* This merged
